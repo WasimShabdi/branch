@@ -1,0 +1,5 @@
+#includstido>
+voidmain()
+(
+printf("helloworld");
+  )
